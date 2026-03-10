@@ -2,7 +2,7 @@
 
 ## PriceRadarAiAgent
 
-PriceRadarAiAgent is a Python-based price comparison agent similar to Buyhatke.  
+PriceRadarAiAgent is a Python-based price comparison agent.  
 It can take a product name or URL, scrape Amazon and Flipkart using Apify actors, store price history in SQLite, and use Google's Gemini model to recommend the best deal.
 
 ### Features
